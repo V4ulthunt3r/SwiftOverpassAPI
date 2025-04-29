@@ -1,0 +1,4 @@
+module SwiftOverpassAPI {
+    header "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/SwiftOverpassAPI-Swift.h"
+    requires objc
+}

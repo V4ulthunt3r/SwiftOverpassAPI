@@ -1,0 +1,161 @@
+{
+  "": {
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/master.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Controllers/OPQueryBuilder.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPQueryBuilder.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPQueryBuilder.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPQueryBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPQueryBuilder.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Controllers/OPVisualizationGenerator.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPVisualizationGenerator.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPVisualizationGenerator.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPVisualizationGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPVisualizationGenerator.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Controllers/PolygonChecker.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/PolygonChecker.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/PolygonChecker.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/PolygonChecker~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/PolygonChecker.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Controllers/TagChecker.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/TagChecker.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/TagChecker.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/TagChecker~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/TagChecker.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/ElementCodingKeys.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/ElementCodingKeys.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/ElementCodingKeys.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/ElementCodingKeys~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/ElementCodingKeys.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/ElementsCodingKeys.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/ElementsCodingKeys.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/ElementsCodingKeys.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/ElementsCodingKeys~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/ElementsCodingKeys.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/NestedPolygonCoordinates.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/NestedPolygonCoordinates.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/NestedPolygonCoordinates.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/NestedPolygonCoordinates~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/NestedPolygonCoordinates.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/OPBoundingBox.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPBoundingBox.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPBoundingBox.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPBoundingBox~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPBoundingBox.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/OPClientResult.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPClientResult.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPClientResult.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPClientResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPClientResult.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/OPElementCenter.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElementCenter.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElementCenter.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElementCenter~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElementCenter.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/OPElementType.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElementType.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElementType.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElementType~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElementType.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/OPGeometry.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPGeometry.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPGeometry.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPGeometry~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPGeometry.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/OPMapKitVisualization.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPMapKitVisualization.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPMapKitVisualization.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPMapKitVisualization~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPMapKitVisualization.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/OPMeta.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPMeta.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPMeta.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPMeta~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPMeta.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/OPNode.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPNode.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPNode.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPNode.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/OPQueryOutputType.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPQueryOutputType.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPQueryOutputType.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPQueryOutputType~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPQueryOutputType.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/OPRelation.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPRelation.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPRelation.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPRelation~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPRelation.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Models/OPWay.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPWay.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPWay.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPWay~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPWay.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Networking/OPClient.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPClient.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPClient.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPClient.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Networking/OPDecodingOperation.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPDecodingOperation.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPDecodingOperation.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPDecodingOperation~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPDecodingOperation.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Protocols/OPElement.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElement.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElement.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/OPElement.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Utilities/CLLocationCoordinate2D+Extensions.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/CLLocationCoordinate2D+Extensions.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/CLLocationCoordinate2D+Extensions.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/CLLocationCoordinate2D+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/CLLocationCoordinate2D+Extensions.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Utilities/Constants.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/Constants.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/Constants.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/Constants~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/Constants.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Utilities/DecoderExtractor.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/DecoderExtractor.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/DecoderExtractor.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/DecoderExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/DecoderExtractor.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Utilities/Errors.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/Errors.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/Errors.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/Errors~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/Errors.swiftdeps"
+  },
+  "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/Source/Utilities/LinkedList.swift": {
+    "dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/LinkedList.d",
+    "object": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/LinkedList.swift.o",
+    "swiftmodule": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/LinkedList~partial.swiftmodule",
+    "swift-dependencies": "/Users/peterhildel/IdeaProjects/iOS/SwiftPackages/SwiftOverpassAPI/SwiftOverpassAPI/.build/index-build/arm64-apple-macosx/debug/SwiftOverpassAPI.build/LinkedList.swiftdeps"
+  }
+}
