@@ -19,7 +19,7 @@ SwiftOverpassAPI is available through Swift Package Manager. To install it, add 
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/V4ulthunt3r/SwiftOverpassAPI.git", from: "0.1.0")
+    .package(url: "https://github.com/V4ulthunt3r/SwiftOverpassAPI.git", from: "1.0.0")
 ]
 ```
 
