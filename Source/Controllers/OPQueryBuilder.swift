@@ -42,7 +42,9 @@ public class OPQueryBuilder {
 	private var timeOut: Int?
 	private var maxSize: Int?
 	
-	public init() {}
+	public init() {
+        // default init
+    }
 	
 	// Add a new filter that checks for the presence of a particular tag key or tag key/value pair in an Overpass element's descriptive data
 	public func addTagFilter(
